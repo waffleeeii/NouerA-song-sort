@@ -10,7 +10,7 @@ export const songs = [
    { name:"Pairing" },
    { name:"Jet Stream" },
    { name:"Bring the Crunk" },
-   { name:"BNB(Beauty and the Beast" },
+   { name:"BNB(Beauty and the Beast)" },
    { name:"FINALE" },
    { name:"WARNING!" },
    { name:"MAKE YOU MOVE" },
